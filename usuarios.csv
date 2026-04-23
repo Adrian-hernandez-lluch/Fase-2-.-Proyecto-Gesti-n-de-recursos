@@ -1,0 +1,4 @@
+Name*Surname*Surname1*Surname2*Account*Path*Group*DNI*Departament*Enabled*Password*ExpirationAccount*Email*NetTime*Computer
+JAVIER*ARIAS PUJOL*ARIAS*PUJOL*jariasp*OU=Administracion,dc=iesjaumei,dc=mylocal*GG-Administracion*12345683-F*Administracion*yes*JaumeI2026!*45*jariasp@iesjaumei.mylocal*L-V,07:00-15:00*W11IJ-001
+EVA*PELLICER JUAN*PELLICER*JUAN*epellicerj*OU=Profesorado_ESOBAT,dc=iesjaumei,dc=mylocal*GG-Profesorado_ESOBAT*12345684-G*Profesorado_ESOBAT*yes*JaumeI2026!*45*epellicerj@iesjaumei.mylocal*L-V,08:00-15:00*UDIJ-001
+RODRIGO*GALLEGO CHAVES*GALLEGO*CHAVES*rgalleogc*OU=Alumnado_Ciclos,dc=iesjaumei,dc=mylocal*GG-Alumnado_Ciclos*12345685-H*Alumnado_Ciclos*yes*JaumeI2026!*45*rgalleogc@iesjaumei.mylocal*L-V,08:00-15:00 y 15:00-21:00*UDIJ-002
